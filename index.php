@@ -38,7 +38,7 @@
     <header class="s-header">
 
         <div class="header-logo">
-            <a class="site-logo" href="index.html">
+            <a class="site-logo" href="index.php">
                 <img src="images/SoteriaLogoNoBG.png" alt="Homepage">
             </a>
         </div> <!-- end header-logo -->
