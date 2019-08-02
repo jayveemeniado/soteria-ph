@@ -218,7 +218,13 @@
                 <h1 class="display-1 display-1--light">Get in touch and let's make something great together. Let's make the world safer one step at a time.</h1>
             </div>
         </div> <!-- end section-header -->
-
+        <div class="row">
+            <div class="col-full contact-main" data-aos="fade-up">
+                <h3 class="subhead subhead--light">Incubated at</h3>
+                <br>
+                <img src="images/uclogo.jpg" alt="University of the Cordilleras">
+            </div>
+        </div>
         <div class="row">
 
             <div class="col-full contact-main" data-aos="fade-up">
