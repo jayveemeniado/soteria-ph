@@ -144,7 +144,7 @@
 
         <div class="row services-list block-1-4 block-m-1-2 block-tab-full">
 
-            <div class="col-block service-item " data-aos="fade-up">
+            <div class="col-block service-item" data-aos="fade-up">
                 <div class="service-icon service-icon--brand-identity">
                     <img src="images/wifi.png" alt="WiFi">
                 </div>
@@ -218,13 +218,7 @@
                 <h1 class="display-1 display-1--light">Get in touch and let's make something great together. Let's make the world safer one step at a time.</h1>
             </div>
         </div> <!-- end section-header -->
-        <div class="row">
-            <div class="col-full contact-main" data-aos="fade-up">
-                <h3 class="subhead subhead--light">Incubated at</h3>
-                <br>
-                <img src="images/uclogo.jpg" alt="University of the Cordilleras">
-            </div>
-        </div>
+    
         <div class="row">
 
             <div class="col-full contact-main" data-aos="fade-up">
@@ -238,11 +232,19 @@
 
         </div> <!-- end row -->
 
-        <div class="row">
-            <div class="col-full cl-copyright">
-                <span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span> 
+        <div class="row block-1-2 block-m-1-2 block-tab-full">
+            <div class="col-block service-item">
+                <div class="col-left cl-copyright">
+                    <span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <br> This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span> 
+                </div>
+            </div>
+            <div class="col-block service-item">
+                <div class="col-right cl-copyright">
+                    <h3 class="subhead subhead--light">Incubated at</h3>
+                    <img src="images/uclogo.jpg" alt="University of the Cordilleras"> 
+                </div>
             </div>
         </div>
 
